@@ -44,7 +44,7 @@ function findMatch() {
 
     // 결과 표시
     var resultElement = document.getElementById("result");
-    resultElement.innerHTML = "당신의 마니또: " + matchingPerson + "<br> 연락처: " + contact;
+    resultElement.innerHTML = "나의 마니또: " + matchingPerson + "<br> 연락처: " + contact;
 }
 </script>
 
