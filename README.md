@@ -18,9 +18,12 @@
 
 <script>
 var excelData = [
-    { name: "이름1", matchingPerson: "매칭1", contact: "010-1234-5678" },
-    { name: "이름2", matchingPerson: "매칭2", contact: "010-2345-6789" },
-    { name: "이름3", matchingPerson: "매칭3", contact: "010-3456-7890" }
+    { name: "황홍섭", matchingPerson: "김혜리", contact: "010-1234-5678" },
+    { name: "김혜리", matchingPerson: "황홍섭", contact: "010-2345-6789" },
+    { name: "박해연", matchingPerson: "최우혁", contact: "010-3456-7890" } 
+    { name: "최우혁", matchingPerson: "박해연", contact: "010-1234-5671" },
+    { name: "이성경", matchingPerson: "장기형", contact: "010-2355-6789" },
+    { name: "장기형", matchingPerson: "이성경", contact: "010-3356-7890" }
     // 필요에 따라 더 많은 데이터 추가 가능
 ];
 
