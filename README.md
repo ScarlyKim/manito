@@ -23,7 +23,9 @@ var excelData = [
     { name: "이송희", matchingPerson: "고재현", contact: "010-5005-9107" },
     { name: "고재현", matchingPerson: "이송희", contact: "010-8317-7813" },
     { name: "김영광", matchingPerson: "최예경", contact: "010-6542-0764" },
-    { name: "최예경", matchingPerson: "김영광", contact: "010-6863-6624" }
+    { name: "최예경", matchingPerson: "김영광", contact: "010-6863-6624" },
+    { name: "장서진", matchingPerson: "최두원", contact: "010-5012-2130" },
+    { name: "최두원", matchingPerson: "장서진", contact: "010-9845-2563" }
     // 필요에 따라 더 많은 데이터 추가 가능
 ];
 
