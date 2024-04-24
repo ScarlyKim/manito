@@ -22,16 +22,16 @@ var excelData = [
     { name: "김혜리", matchingPerson: "황홍섭", contact: "010-3911-7172" },
     { name: "이송희", matchingPerson: "고재현", contact: "010-5005-9107" },
     { name: "고재현", matchingPerson: "이송희", contact: "010-8317-7813" },
-    { name: "김영광", matchingPerson: "최예경", contact: "010-6542-0764" },
-    { name: "최예경", matchingPerson: "김영광", contact: "010-6863-6624" },
+    { name: "김영광", matchingPerson: "이인경", contact: "010-7572-9968" },
+    { name: "이인경", matchingPerson: "김영광", contact: "010-6863-6624" },
     { name: "장서진", matchingPerson: "최두원", contact: "010-5012-2130" },
     { name: "최두원", matchingPerson: "장서진", contact: "010-9845-2563" },
     { name: "임규", matchingPerson: "이성헌", contact: "010-2045-4257" },
     { name: "이성헌", matchingPerson: "임규", contact: "010-2557-0122" },
     { name: "박해연", matchingPerson: "최우혁", contact: "010-6863-6624" },
     { name: "최우혁", matchingPerson: "박해연", contact: "010-5012-2130" },
-    { name: "김성진", matchingPerson: "이인경", contact: "010-9845-2563" },
-    { name: "이인경", matchingPerson: "김성진", contact: "010-2045-4257" }
+    { name: "김성진", matchingPerson: "김준", contact: "010-9845-2563" },
+    { name: "김준", matchingPerson: "김성진", contact: "010-2045-4257" }
     // 필요에 따라 더 많은 데이터 추가 가능
 ];
 
